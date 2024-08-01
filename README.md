@@ -1,1 +1,1 @@
-# Shell-Scripting-For-DevOpsPractice
+# shell-scripting-for-practice01
